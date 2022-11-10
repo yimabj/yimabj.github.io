@@ -1,10 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 🎉🎉🎉恭喜公司成立🎉🎉🎉
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+北京伊码网络科技有限公司成立于2022-10-17，注册资本为100万元人民币，企业地址位于北京市昌平区回龙观镇东大街338号腾讯众创空间OF-A2F210-13，所属行业为科技推广和应用服务业，经营范围包含：一般项目：技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广；软件开发；软件销售；人工智能应用软件开发；人工智能基础软件开发；信息技术咨询服务；软件外包服务；专业设计服务；数字文化创意软件开发；信息系统运行维护服务；计算机软硬件及辅助设备零售。（除依法须经批准的项目外，凭营业执照依法自主开展经营活动）（不得从事国家和本市产业政策禁止和限制类项目的经营活动。）。
