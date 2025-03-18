@@ -10,4 +10,4 @@ Beijing Yima Network Technology Co., Ltd.
 
 ### 联系我们
 
-[zhangruquan@yimabj.com](mailto:zhangruquan@yimabj.com)
+[yimabj@gmail.com](mailto:yimabj@gmail.com)
